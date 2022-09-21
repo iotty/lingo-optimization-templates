@@ -6,5 +6,5 @@ This repository will keep updating to tackle optimization problem solved by usin
 * Capacitated Vehicle Routing Problem (CVRP) -- [Read here](https://medium.com/@over_boxed/capacitated-vehicle-routing-problem-with-lingo-427c2d3bf724).
 * Capacitated Vehicle Routing Problem with Time Windows (CVRPTW) -- coming soon.
 
-All LINGO codes in folder study case. Cheers.
-If you have any inquires, contact me here.
+All LINGO codes in folder study case. 
+If you have any inquires, contact me here. Cheers.
