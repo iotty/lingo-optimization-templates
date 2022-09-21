@@ -5,6 +5,7 @@ This repository will keep updating to tackle optimization problem solved by usin
 * Facility Location Problem (Capacitated) -- [Read here](https://medium.com/@over_boxed/exercise-capacitated-facility-location-problem-f1ef621866e8).
 * Capacitated Vehicle Routing Problem (CVRP) -- [Read here](https://medium.com/@over_boxed/capacitated-vehicle-routing-problem-with-lingo-427c2d3bf724).
 * Capacitated Vehicle Routing Problem with Time Windows (CVRPTW) -- coming soon.
+* 1-0 Knapsack Problem -- [Read here](https://medium.com/@over_boxed/integer-formulation-of-1-0-knapsack-problem-solve-in-lingo-e89c016ebcae)
 
 All LINGO codes in folder study case. 
 If you have any inquires, contact me [here](mailto:overboxed@gmail.com). Cheers.
