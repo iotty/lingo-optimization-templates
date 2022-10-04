@@ -9,5 +9,5 @@ This repository will keep updating to tackle optimization problem solved by usin
 - Capacitated Vehicle Routing Problem with Time Windows (CVRPTW) -- coming soon.
 - 1-0 Knapsack Problem -- [Read here](https://medium.com/@over_boxed/integer-formulation-of-1-0-knapsack-problem-solve-in-lingo-e89c016ebcae)
 
-All LINGO codes in folder study case.
+All LINGO codes in folder case study.
 If you have any inquires, contact me [here](mailto:reallyboxed@gmail.com). Cheers.
